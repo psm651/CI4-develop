@@ -9,6 +9,7 @@ class Board extends Controller
 	 */
 	public function index()
 	{
+		$a= 1;
 		return 'index';
 	}
 	/**
